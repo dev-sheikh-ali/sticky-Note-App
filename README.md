@@ -4,7 +4,7 @@
 * add note
 * read note
 * delete note
-* if that aint enough add your features
+* feel free to add more features
 
 ## Screenshots
 * add note
